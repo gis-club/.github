@@ -1,5 +1,6 @@
 <div align="center">
   <img src="logo.png" alt="GIS-Club Logo" width="200">
+  | [English](README.md) | [中文](README-zh.md) |
 </div>
 
 # 🗺️ GIS-Club
