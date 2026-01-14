@@ -1,9 +1,8 @@
 <div align="center">
-
   <img src="logo.png" alt="GIS-Club Logo" width="200">
 
   | [English](README.md) | [中文](README-zh.md) |
-    
+  
 </div>
 
 # 🗺️ GIS-Club
@@ -51,29 +50,14 @@ GIS-Club是一个由充满激情的开发者和研究人员组成的社区，致
 
 ## 📞 联系方式
 
+- **网站**：[www.gislclub.top](https://www.gislclub.top)
 - **GitHub**：[GIS-Club组织](https://github.com/gis-club)
 - **邮箱**：tqtong612@gmail.com
 - **讨论区**：加入我们的GitHub Discussions进行持续对话
 - **项目**：探索我们的仓库了解当前的研究和开发工作
 
-## 🌟 我们的特色
-
-- **跨学科合作**：结合地理学、计算机科学、数据科学等多个领域
-- **开源精神**：积极贡献和推广开源GIS工具
-- **实践导向**：注重实际应用和问题解决
-- **国际化视野**：与全球GIS社区保持联系和交流
-
-## 📚 学习资源
-
-我们定期分享和整理：
-
-- **GIS教程和指南**
-- **最新技术动态**
-- **项目案例研究**
-- **学术论文解读**
-
 ---
 
 *"地理是理解我们世界的关键，而GIS是使其成为可能的工具。"*
 
-*由GIS-Club社区用心制作 ❤️* 
+*由GIS-Club社区用心制作 ❤️*
