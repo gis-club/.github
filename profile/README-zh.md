@@ -50,7 +50,7 @@ GIS-Club是一个由充满激情的开发者和研究人员组成的社区，致
 
 ## 📞 联系方式
 
-- **网站**：[www.gislclub.top](https://www.gislclub.top)
+- **官网**：[www.gisclub.top](https://www.gisclub.top)
 - **GitHub**：[GIS-Club组织](https://github.com/gis-club)
 - **邮箱**：tqtong612@gmail.com
 - **讨论区**：加入我们的GitHub Discussions进行持续对话
